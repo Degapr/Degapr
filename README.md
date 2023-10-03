@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Dega Pradipta Ramadhan</h1>
-<h3 align="left">I am a student from Telkom University</h3>
+<h3 align="left">Undergraduate Student in Electrical Energy Engineering at Telkom University</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/aF0ipAtOk9cAAAAM/spy-x-family-anya.gif"
 
 
